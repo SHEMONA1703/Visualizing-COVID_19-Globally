@@ -1,2 +1,6 @@
 # Visualizing-COVID_19-Globally
-This project assumes you can manipulate data frames using dplyr and make plots using ggplot2.Used these skills in the course: 1. Data manipulation with dplyr 2. Intermediate Data Visualization with ggplot2.
+Used these skills in the project: 1. Data manipulation with dplyr 2. Intermediate Data Visualization with ggplot2.
+## Refrences:
+1.https://github.com/RamiKrispin/coronavirus
+2.https://www.nps.gov/aboutus/news/images/CDC-coronavirus-image-23311-for-web.jpg?maxwidth=650&autorotate=false
+3.https://learn.datacamp.com/projects/870
